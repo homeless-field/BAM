@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796593876331",
+    "project_id": "party-app---bam-ff56f",
+    "storage_bucket": "party-app---bam-ff56f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796593876331:android:74380165430fc4533c302e",
+        "android_client_info": {
+          "package_name": "com.mycompany.partyappbam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2GDDhs8OIkEeuFHyMyuw6cAjp_uDFX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
